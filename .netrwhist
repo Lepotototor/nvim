@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/lepotototor/.config/hypr'
+let g:netrw_dirhist_6='/home/lepotototor/.config/i3'
+let g:netrw_dirhist_5='/home/lepotototor/.config/hypr'
+let g:netrw_dirhist_4='/home/lepotototor/Work/Prog/SmurfShowdown/Data'
+let g:netrw_dirhist_3='/home/lepotototor/.config/hypr'
+let g:netrw_dirhist_2='/home/lepotototor/Work/reports/.git'
+let g:netrw_dirhist_1='/home/lepotototor/.config'
